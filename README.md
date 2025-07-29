@@ -26,7 +26,7 @@ The dataset contains sales data for global online store, including:
 - **Most profitable product**: canon imageCLASS 2200 Advanced copier has the highest profit margin.
 
 ## SCREENSHOTS
-Uploaded and can be downloaded
+![dashboard](GLOBAL STORE 1.PNG)
 
 ## HOW TO VIEW THE PROJECT
 1. Download the '.pbix' file and open it in Power Bi.
